@@ -1,5 +1,4 @@
-# zadanie-po-markdown-i-git-UMikhailova
-zadanie-po-markdown-i-git-UMikhailova created by GitHub Classroom
+
 <!-- Автор верстки:Ульяна Михайлова -->
 
 ## О КАФЕДРЕ
